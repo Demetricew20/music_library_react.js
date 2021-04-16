@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    box-shadow: 0 2vh 0 2vh lightblue;
+    margin-top: 4em;
+    text-align: center;
+    background-color: lightblue;
+    
+
+}
+
+.text {
+    margin-top: 12px;
+    font-size: .75rem;
+}
